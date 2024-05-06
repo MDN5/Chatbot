@@ -1,0 +1,21 @@
+{
+    "Greetings": "Hello! Welcome to our support service. How may I assist you today?",
+    "user_name": "To better assist you, could you please provide your name?",
+    "user_email": "To better assist you, could you please provide your email?",
+    "user_number": "To better assist you, could you please provide your phone number?",
+    "file_not_found": "I apologize, it seems there's an issue with the file. A ticket has been raised to our support team. They'll reach out to you shortly.",
+    "file": "I'm sorry, it seems there's an issue with the file. A ticket has been raised to our support team. They'll reach out to you shortly.",
+    "EDA_code": "I'm sorry, it seems there's an issue with the EDA code. A ticket has been raised to our support team. They'll reach out to you shortly.",
+    "dashboard_file_error": "I apologize, there's an error with the dashboard file. A ticket has been raised to our support team. They'll reach out to you shortly.",
+    "Dashboard_access": "I apologize, it seems there's an issue with dashboard access. A ticket has been raised to our support team. They'll reach out to you shortly.",
+    "ticket_gen": "A ticket has been raised to our support team. They'll reach out to you shortly.",
+    "thanks_reply": "You're welcome! Is there anything else I can assist you with?",
+    "about_bot": "I'm here to assist you 24/7. How can I help you today?",
+    "affirm": "Great! Is there anything else you need assistance with?",
+    "bye": "Thank you for reaching out! If you have any more questions in the future, don't hesitate to ask. Have a wonderful day!",
+    "cant_help": "We apologize for any inconvenience caused. Our support team has been notified and will reach out to you shortly. Is there anything else I can assist you with?",
+    "deny": "We apologize for any inconvenience caused. Our support team has been notified and will reach out to you shortly. Is there anything else I can assist you with?",
+    "explain": "Thank you for your patience. Our support team has been notified about the issue. Is there anything else I can assist you with?",
+    "react_negative": "We apologize for any inconvenience caused. Our support team has been notified and will reach out to you shortly. Is there anything else I can assist you with?",
+    "react_positive": "Thank you for your understanding! Our team will address the issue promptly. Is there anything else I can assist you with?"
+}

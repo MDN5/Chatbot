@@ -1,0 +1,3 @@
+This dir. has a placeholder file named tf_model.h5.
+It is created to maintain the directory structure.
+This file does not contain any actual data.

@@ -1,0 +1,27 @@
+{
+    "chatbot_issue": "Apologies, a ticket has been raised to our support team. They will contact you soon.",
+    "bot_timing": "We're available 24/7 to assist you. Please let us know your query.",
+    "Greetings": "Hello, welcome to our support service. How may I help you?",
+    "file_not_found": "Apologies, a ticket has been raised to our support team. They will contact you soon.",
+    "file": "I'm sorry, we're experiencing issues with the OCR. A ticket has been raised to our support team. They will contact you soon.",
+    "EDA_code": "Apologies, a ticket has been raised to our support team. They will contact you soon.",
+    "dashboard_file_error": "Apologies, a ticket has been raised to our support team. They will contact you soon.",
+    "Dashboard_access": "Apologies, a ticket has been raised to our support team. They will contact you soon.",
+    "user_number": "Please provide your query.",
+    "user_name": "Please provide your query.",
+    "user_email": "Please provide your query.",
+    "ticket_gen": "Apologies, a ticket has been raised to our support team. They will contact you soon.",
+    "thanks_reply": "Thank you. Do you need further assistance?",
+    "system_configurations": "Apologies, a ticket has been raised to our support team. They will contact you soon.",
+    "sure_reply": "Sure.",
+    "about_bot": "This is a 24x7 service bot. How can I help you?",
+    "affirm": "Thank you. Do you need further assistance?",
+    "bye": "Thanks for connecting with us, have a wonderful day ahead!",
+    "cant_help": ["We are very sorry for the inconvenience", "A ticket has been raised to our support team. They will contact you soon."],
+    "deny": "Thanks for connecting with us. Do you need further assistance?",
+    "explain": "We are very happy to help you. For more details please press yes to raise the ticket. Our team will contact you soon",
+    "react_negative": "We are very sorry for the inconvenience. Do you need further assistance?",
+    "react_positive": "Thank you. Do you need further assistance?"
+}
+
+
