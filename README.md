@@ -1,4 +1,4 @@
-# Chatbot Screenshots in Action
+# Early Proof of Concept Chatbot with DistilBERT for Intent Classification
 
 Chatbot functionalities and UI captured in screenshots.
 
